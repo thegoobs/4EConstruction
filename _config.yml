@@ -2,6 +2,9 @@
 title: 4E Construction Services
 timezone: UTC
 collections:
+  employees:
+    title: Employees
+    output: true
   posts:
     title: Posts
     output: true
