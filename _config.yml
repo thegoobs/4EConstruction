@@ -10,7 +10,7 @@ collections:
     output: true
   projects:
     title: Projects
-    output: true
+    output: false
   services:
     title: Services
     output: true
