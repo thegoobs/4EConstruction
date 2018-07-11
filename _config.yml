@@ -7,13 +7,13 @@ collections:
     output: false
   posts:
     title: Posts
-    output: true
+    output: false
   projects:
     title: Projects
     output: false
   services:
     title: Services
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -47,6 +47,7 @@ address: |-
   Kyle, Texas 78640
 permalink: pretty
 markdown: kramdown
-theme: minima
 plugins:
 - jekyll-remote-theme
+
+remote_theme: "thegoobs/4ETheme"
