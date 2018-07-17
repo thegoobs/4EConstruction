@@ -1,7 +1,7 @@
 ---
 title: Richard Elizondo
 date: 2018-07-09 12:48:00 -05:00
-position: 0
+position: Principal
 phone: "(512) 618-1851"
 email: r.elizondo@4econstructionservices.com
 education: |-
