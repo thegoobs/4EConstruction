@@ -7,7 +7,7 @@ collections:
     output: false
   posts:
     title: Posts
-    output: false
+    output: true
   projects:
     title: Projects
     output: false
@@ -31,7 +31,7 @@ defaults:
     layout: page
 subtitle: Quality Construction
 call_to_action: Let's Build Something Together
-hero_image: "assets/austin.jpeg"
+hero_image: assets/austin.jpeg
 description: |-
   4E Construction Services, LLC offers a full range of construction services providing General Contracting, construction management, and design-build services to a broad spectrum of Clients in both public and private sectors throughout Central Texas. Our emphasis is General Contracting in site work and subdivision development. Our services include excavation, paving, concrete structures, storm drainage, water, wastewater, electrical, and telecommunications improvements. \
   \
