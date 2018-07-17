@@ -49,3 +49,6 @@ address: |-
   Kyle, Texas 78640
 permalink: pretty
 markdown: kramdown
+plugins:
+- jekyll-remote-theme
+remote_theme: thegoobs/4etheme
