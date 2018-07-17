@@ -1,0 +1,52 @@
+---
+layout: page
+title: Team Resumes
+visible: true
+---
+
+
+<h1 style="text-align: center;">{{page.title}}</h1>
+<div class="employee-container">
+	{% assign employees = site.employees | sort: 'order' %}
+	{% for employee in employees %}
+		<div class="employee-entry">
+			<h2 class="employee-title">
+				{{employee.title}}
+			</h2>
+
+			<h4 class="employee-subtitle">
+				{{employee.position}}
+			</h4>
+			<p>
+				{{employee.phone}}
+			</p>
+			<a href="mailto:{{employee.Email}}">
+				{{employee.email}}
+			</a>
+			<p>
+				{{employee.content}}
+			</p>
+			<h4>
+				Education
+			</h4>
+			<p>
+				{{employee.education}}
+			</p>
+
+			{% if employee.licenses %}
+				<h4>
+					Licenses
+				</h4>
+				<ul>
+				{% for i in employee.licenses %}
+					<li>
+						{{i}}
+					</li>
+				{% endfor %}
+				</ul>
+			{% endif %}
+		</div>
+		<hr/>
+		<br/>
+	{% endfor %}
+</div>
