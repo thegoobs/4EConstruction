@@ -1,7 +1,6 @@
 ---
 title: About Us
-date: 2018-07-09 11:58:00 -05:00
-image: 
+layout: page
 ---
 
 4E Construction Services provides a full range of construction services on public works and private development Projects. We have extensive experience and knowledge of the Central Texas area. Since the inception of 4E in 2012, we have completed Projects in and around the South Austin, San Marcos, Bastrop, Kyle and Buda areas.
