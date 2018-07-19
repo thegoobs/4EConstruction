@@ -1,0 +1,15 @@
+---
+title: Services
+layout: page
+visible: true
+---
+
+<div class="responsive-grid">
+{% for service in site.services %}
+	<div class="service-entry">
+		<h2>{{ service.title }}</h2>
+		<hr/>
+		<span>{{service.content}}</span>
+	</div>
+{% endfor %}
+</div>

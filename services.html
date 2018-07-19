@@ -1,0 +1,17 @@
+---
+title: Projects
+layout: page
+visible: true
+---
+
+<div class="responsive-grid">
+{% for project in site.projects %}
+	<div class="project-entry">
+		<h2>{{ project.title }}</h2>
+		<hr/>
+		<h4>{{ project.location }}, {{project.timeline}}</h4>
+		<span>{{project.content}}</span>
+		<span>{{project.cost}}</span>
+	</div>
+{% endfor %}
+</div>

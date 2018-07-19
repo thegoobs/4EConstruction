@@ -10,3 +10,30 @@ h1 {
 header img {
 	filter: invert(100%);
 }
+
+.responsive-grid {
+	display: grid;
+	//   Really powerful responsive grid setup
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-gap: 48px 48px;
+	overflow: hidden;
+
+	&#gallery {
+		grid-auto-rows: 200px;
+	}
+	
+	& h2 {
+		text-align: center;
+	}
+	@media screen and (max-width: $screen_medium) {
+		display: block;
+		& div {
+			padding: 24px;
+			max-height: 300px;
+		}
+	}
+}
+
+.gallery-entry {
+	overflow: hidden;
+}
