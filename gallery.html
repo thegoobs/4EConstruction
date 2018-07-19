@@ -1,0 +1,18 @@
+---
+title: Gallery
+layout: page
+visible: true
+---
+
+<div class="responsive-grid" id="gallery">
+	{% assign collection = site.collections | where: 'label', 'uploads' | first %}
+	{% for file in collection.files %}
+		{% if file.name contains 'gallery' %}
+			<div class="gallery-entry">
+				<a href="/uploads/{{file.name}}" target="_blank">
+					<img src="/uploads/{{file.name}}"/>
+				</a>
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
