@@ -6,14 +6,16 @@ order: 5
 ---
 
 <div class="responsive-grid" id="gallery">
-	{% assign collection = site.collections | where: 'label', 'uploads' | first %}
-	{% for file in collection.files %}
-		{% if file.name contains 'gallery' %}
-			<div class="gallery-entry">
-				<a href="/uploads/{{file.name}}" target="_blank">
-					<img src="/uploads/{{file.name}}"/>
-				</a>
-			</div>
-		{% endif %}
+	{% assign collection = site.gallery %}
+	{% for file in collection %}
+		<div class="gallery-entry">
+			<a href="{{file.image | relative_url }}" target="_blank">
+				<img src="{{file.image | relative_url }}"/>
+				<div class="gallery-info">
+					<h3>{{file.title}}</h3>
+					<p>{{file.content}}</p>
+				</div>
+			</a>
+		</div>
 	{% endfor %}
 </div>
