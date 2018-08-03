@@ -5,6 +5,9 @@ collections:
   employees:
     title: Employees
     output: false
+  gallery:
+    title: Gallery
+    output: false
   posts:
     title: Posts
     output: true

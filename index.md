@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+order: 1
 ---
 
 # Honesty and Integrity in Construction
