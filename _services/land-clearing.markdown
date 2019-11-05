@@ -1,6 +1,6 @@
 ---
 title: Land Clearing
-date: 2018-07-09 17:30:00 Z
+date: 2018-07-09 12:30:00 -05:00
 image: 
 ---
 
@@ -12,4 +12,4 @@ image:
 
 * Shredding or Mowing
 
-* Re-vegetation\
+* Re-vegetation
