@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+date: 2021-07-01 13:56:00 -05:00
 order: 1
 ---
 
