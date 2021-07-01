@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: default
 order: 1
 ---
 
