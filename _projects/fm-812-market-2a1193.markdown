@@ -1,7 +1,7 @@
 ---
 title: FM 812 Market
 date: 2018-07-09 13:36:00 -05:00
-position: 17
+position: 14
 location: City of Austin
 timeline: 2013-2019
 cost: Over $500,000
