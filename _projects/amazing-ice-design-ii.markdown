@@ -1,7 +1,7 @@
 ---
 title: Amazing Ice Design II
 date: 2018-07-09 13:43:00 -05:00
-position: 9
+position: 10
 location: City of Kyle
 timeline: 2016
 cost: "$612,000"
