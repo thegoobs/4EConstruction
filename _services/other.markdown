@@ -1,16 +1,7 @@
 ---
-title: Other
+title: Street, driveway, and parking improvements
 date: 2018-07-09 12:39:00 -05:00
 position: 6
 image: 
 ---
 
-* Design Build Services
-
-* Project Management
-
-* Construction Management
-
-* Construction Staking
-
-* Surveying
