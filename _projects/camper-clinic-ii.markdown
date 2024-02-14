@@ -7,4 +7,4 @@ timeline: October 2016
 cost: "$124,100"
 ---
 
-Wastewater line extension, abandon existing OSSF tank
+Wastewater line extension, abandon existing OSSF system
