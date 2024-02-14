@@ -6,4 +6,3 @@ timeline: Ongoing
 cost: 
 ---
 
-Parking and drainage improvements.
