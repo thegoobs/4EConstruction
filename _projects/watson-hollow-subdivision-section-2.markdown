@@ -1,10 +1,10 @@
 ---
-title: Watson Hollow Subdivision, Section 2
+title: Horseshoe Ridge Electrical and Public Water Supply Improvements
 date: 2018-07-09 13:49:00 -05:00
 position: 1
-Location: City of Buda
-Timeline: March 2012
-Cost: "$40,000"
+Location: Hays County
+Timeline: February 2024
+Cost: "$1,002,000"
 ---
 
-Water and Wastewater improvements
+Electrical for Phase 1 of the RV Resort and the new public water supply pump station.  Electrical included 3 phase and 1 phase primary runs, secondary runs, and pedestals.  Public water system included yard piping, electrical, controls, and hydro and ground storage tanks.
