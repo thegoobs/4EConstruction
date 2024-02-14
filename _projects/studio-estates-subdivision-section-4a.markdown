@@ -1,7 +1,7 @@
 ---
 title: Studio Estates Subdivision, Section 4A
 date: 2018-07-09 13:51:00 -05:00
-position: 10
+position: 11
 Location: City of Niederwald
 Timeline: January 2012
 Cost: "$320,000"
