@@ -4,7 +4,7 @@ date: 2018-07-09 13:51:00 -05:00
 position: 16
 Location: City of Niederwald
 Timeline: January 2012
-Cost: "$320,000"
+Cost: "$675,000"
 ---
 
-Water, wastewater, water quality/detention pond, and street and drainage improvements
+Site improvements including excavation/embankment, street, water, and wastewater improvements.
