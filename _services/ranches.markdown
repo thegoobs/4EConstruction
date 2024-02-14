@@ -1,6 +1,7 @@
 ---
 title: Ranches
-date: 2018-07-09 17:39:00 Z
+date: 2018-07-09 12:39:00 -05:00
+position: 8
 image: 
 ---
 
