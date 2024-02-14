@@ -1,6 +1,7 @@
 ---
 title: Shell Road Boat and RV Storage
 date: 2024-02-14 14:36:00 -06:00
+position: 6
 location: City of Georgetown
 timeline: |-
   Phase 1, December 2020
