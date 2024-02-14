@@ -1,6 +1,7 @@
 ---
 title: Covered Wagon RV/Boat Storage
 date: 2024-02-14 14:30:00 -06:00
+position: 5
 location: 
 timeline: |-
   Phase 1, March 2021
