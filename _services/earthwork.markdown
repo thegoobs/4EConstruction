@@ -1,19 +1,11 @@
 ---
 title: Earthwork
-date: 2018-07-09 17:34:00 Z
+date: 2018-07-09 12:34:00 -05:00
 image: 
 ---
 
-* Mass Excavation
+* Excavation
 
 * Embankment
 
-* Public Streets
-
-* Private Roads
-
-* Building Pads
-
-* Lime Stabilized
-
-* Chemical Injection
+* Compaction
