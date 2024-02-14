@@ -5,3 +5,4 @@ position: 1
 image: "/uploads/FIRE%20HYDRANT.jpg"
 ---
 
+Fire Hydrant
