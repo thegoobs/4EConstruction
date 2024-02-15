@@ -1,7 +1,7 @@
 ---
 title: Horseshoe
 date: 2024-02-15 10:22:00 -06:00
-position: 24
+position: 25
 image: "/uploads/HORSESHOE%20ELECTRICAL.jpg"
 ---
 
