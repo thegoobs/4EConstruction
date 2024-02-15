@@ -1,7 +1,7 @@
 ---
 title: Covered Wagon
 date: 2024-02-15 10:35:00 -06:00
-position: 22
+position: 21
 image: "/uploads/PAVING%20IMPROVEMENTS.jpg"
 ---
 
