@@ -1,7 +1,7 @@
 ---
 title: Shaylan Eckols
 date: 2024-02-15 10:39:00 -06:00
-position: 8
+position: 10
 image: "/uploads/WW%20TAP.jpg"
 ---
 
