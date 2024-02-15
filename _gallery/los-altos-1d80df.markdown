@@ -1,7 +1,7 @@
 ---
 title: Los Altos
 date: 2024-02-15 09:57:00 -06:00
-position: 45
+position: 38
 image: "/uploads/HOA%20PARK%20IMPROVEMENTS.jpg"
 ---
 
