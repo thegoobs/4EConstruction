@@ -1,7 +1,7 @@
 ---
 title: Bore Pro
 date: 2024-02-15 10:30:00 -06:00
-position: 24
+position: 25
 image: "/uploads/FOUNDATION%20FOOTING.jpg"
 ---
 
