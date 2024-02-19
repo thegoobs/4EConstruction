@@ -1,6 +1,6 @@
 ---
 title: America's Auto Auction
-date: 2018-08-03 16:43:00 -05:00
+date: 2024-02-19 00:13:00 -06:00
 position: 14
 image: "/uploads/gallery_IMG_0384.JPG"
 ---
