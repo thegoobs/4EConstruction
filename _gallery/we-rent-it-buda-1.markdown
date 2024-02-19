@@ -1,6 +1,6 @@
 ---
 title: We Rent It Buda
-date: 2018-08-03 16:49:00 -05:00
+date: 2024-02-19 00:53:00 -06:00
 position: 55
 image: "/uploads/gallery_IMG_7069.JPG"
 ---
