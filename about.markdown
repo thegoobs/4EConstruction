@@ -14,8 +14,6 @@ The 4E Construction Team has over 50 years of construction and engineering exper
 * Shepherd Mountain Pump Station
 * Southeast, Northeast and East Metropolitan Parks
 * The Steiner Ranch Wastewater Treatment Plant
-* City of Austin 11th Street Renovation
-* South 1st Street Renovation
 
  and many others in Central Texas.
 
