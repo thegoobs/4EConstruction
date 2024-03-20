@@ -3,6 +3,7 @@ title: We Rent It
 date: 2018-07-09 13:35:00 -05:00
 position: 9
 location: City of Schertz
+time: June 2018
 timeline: June 2018
 cost: "$345,400"
 ---
