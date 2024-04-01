@@ -1,6 +1,6 @@
 ---
 title: Cullen Country Subdivision, Section 3
-date: 2024-03-29 13:41:00 -05:00
+date: 2024-01-15 13:41:00 -06:00
 position: 13
 location: City of Buda
 timeline: February 2014
