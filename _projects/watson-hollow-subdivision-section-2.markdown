@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Ridge Electrical and Public Water Supply Improvements
-date: 2024-01-01 13:49:00 -06:00
+date: 2024-01-02 13:49:00 -06:00
 position: 1
 Location: Hays County
 Timeline: February 2024
