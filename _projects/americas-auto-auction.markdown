@@ -1,6 +1,6 @@
 ---
 title: America's Auto Auction
-date: 2024-03-29 13:37:00 -05:00
+date: 2024-01-12 13:37:00 -06:00
 position: 12
 location: City of Buda
 timeline: January 2016
