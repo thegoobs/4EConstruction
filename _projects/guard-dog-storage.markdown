@@ -1,6 +1,6 @@
 ---
 title: Guard Dog Storage
-date: 2024-03-29 14:45:00 -05:00
+date: 2024-01-11 14:45:00 -06:00
 position: 8
 location: City of Buda
 timeline: February 2019
