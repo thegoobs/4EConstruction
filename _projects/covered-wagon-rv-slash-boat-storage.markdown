@@ -2,7 +2,7 @@
 title: Covered Wagon RV/Boat Storage
 date: 2024-01-08 14:30:00 -06:00
 position: 5
-location: 
+location: Hays County
 timeline: |-
   Phase 1, March 2021
   Phase 2, October 2022
