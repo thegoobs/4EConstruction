@@ -1,6 +1,6 @@
 ---
 title: Covered Wagon RV/Boat Storage
-date: 2024-03-29 14:30:00 -05:00
+date: 2024-01-08 14:30:00 -06:00
 position: 5
 location: 
 timeline: |-
