@@ -1,9 +1,10 @@
 ---
 title: Studio Estates Subdivision, Section 4A
-date: 2018-07-09 13:51:00 -05:00
-Location: City of Niederwald
-Timeline: January 2012
-Cost: "$320,000"
+date: 2024-01-19 13:51:00 -06:00
+position: 16
+location: City of Niederwald
+timeline: January 2012
+cost: "$675,000"
 ---
 
-Water, wastewater, water quality/detention pond, and street and drainage improvements
+Site improvements including excavation/embankment, street, water, and wastewater improvements

@@ -1,0 +1,8 @@
+---
+title: Los Altos, Phase 1
+date: 2024-02-19 00:40:00 -06:00
+position: 42
+image: "/uploads/PH1_WATER%20IMPROVEMENTS_2.jpg"
+---
+
+Water Improvements

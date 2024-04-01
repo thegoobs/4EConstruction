@@ -1,9 +1,10 @@
 ---
-title: La Hacienda Mexican Restaurant
-date: 2018-07-09 13:48:00 -05:00
+title: La Hacienda
+date: 2024-01-17 13:48:00 -06:00
+position: 15
 location: City of Bastrop
 timeline: June 2012
-cost: "$400,000"
+cost: "$365,000"
 ---
 
-Site work including excavation/embankment, building foundation, building pad, water and wastewater utilities, electrical/telecommunication, and paving improvements
+Site improvements including earthwork, drainage, water, wastewater, detention pond, building foundation
