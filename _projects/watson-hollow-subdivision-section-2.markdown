@@ -7,4 +7,4 @@ Timeline: February 2024
 Cost: "$1,002,000"
 ---
 
-Electrical for Phase 1 of the RV Resort and the new public water supply pump station.  Electrical included 3 phase and 1 phase primary runs, secondary runs, and pedestals.  Public water system included yard piping, electrical, controls, and hydro and ground storage tanks.
+Electrical for Phase 1 of the RV Resort and the new public water supply pump station.  Electrical included 3 phase and 1 phase primary runs, secondary runs, and pedestals.  Public water system included yard piping, electrical, controls, and hydro and ground storage tanks,
