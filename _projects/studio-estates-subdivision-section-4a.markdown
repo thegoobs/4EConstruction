@@ -7,4 +7,4 @@ Timeline: January 2012
 Cost: "$675,000"
 ---
 
-Site improvements including excavation/embankment, street, water, and wastewater improvements,
+Site improvements including excavation/embankment, street, water, and wastewater improvements
